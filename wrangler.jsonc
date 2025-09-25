@@ -1,0 +1,17 @@
+/**
+ * Wrangler config for the Cloudflare Durable Object template
+ * STRICTLY DO NOT MODIFY THIS FILE - Hidden from AI to prevent breaking core functionality
+ */
+ {
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "v1-flappy-funster-4e7cd0d3-9157-44be-b035-2a9885c29f77",
+	"main": "worker/index.ts",
+	"compatibility_date": "2025-04-24",
+	"assets": {
+		"not_found_handling": "single-page-application",
+		"run_worker_first": ["/api/*", "!/api/docs/*"]
+	},
+	"observability": {
+		"enabled": true
+	}
+}
