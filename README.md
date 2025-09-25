@@ -1,6 +1,6 @@
 # Flappy Funster
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/magbulogtong81/vibe-code-flappy-bird)
 
 A vibrant and playful clone of the classic Flappy Bird game, built with React and styled with Tailwind CSS, featuring a delightful 'Kid Playful' art style.
 
@@ -78,7 +78,7 @@ This project is configured for seamless deployment to Cloudflare Pages.
 
 Alternatively, you can connect your GitHub repository to Cloudflare Pages for automatic CI/CD deployments on every push to your main branch.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/magbulogtong81/vibe-code-flappy-bird)
 
 ## 🤝 Contributing
 
